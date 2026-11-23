@@ -1,147 +1,111 @@
-📺 BrightTV Viewership Analytics
+# 📺 BrightTV Viewership Analytics
 
-📖 Project Overview
+## 📌 Project Overview
 
-This project analyzes BrightTV viewership data using Databricks, SQL, Microsoft Excel, Miro, and Microsoft PowerPoint. The objective is to understand viewer behaviour, identify content consumption patterns, analyse audience demographics, and provide actionable business recommendations to improve viewership and grow the subscriber base.
+This project focuses on analysing BrightTV viewership data to understand audience behaviour, viewing patterns and content preferences.
 
-🎯 Project Objectives
+The analysis was conducted using Databricks SQL and Microsoft Excel to identify trends, explore audience demographics and generate business insights that can help improve viewer engagement and grow the platform's audience.
 
-Analyse overall viewership performance.
+---
 
-Identify audience demographics by age and gender.
+## 🎯 Project Objectives
 
-Determine provinces with the highest viewing activity.
+- Understand overall viewership activity.
+- Analyse audience demographics, including age, gender and province.
+- Identify the most-watched channels.
+- Analyse viewing patterns across different days of the week.
+- Identify monthly viewership trends.
+- Understand factors influencing content consumption.
+- Provide recommendations to improve viewer engagement and retention.
 
-Identify top-performing channels.
+---
 
-Analyse viewing patterns across different days of the week.
+## 🛠️ Tools & Technologies
 
-Evaluate monthly consumption trends.
+| Tool | Purpose |
+|---|---|
+| Databricks | Data exploration and analysis |
+| SQL | Data cleaning, querying and analysis |
+| Microsoft Excel | Pivot tables and data visualisation |
+| Miro | Project planning and architecture |
+| Microsoft PowerPoint | Presentation of findings |
+| GitHub | Project documentation and version control |
 
-Identify factors influencing content consumption.
+---
 
-Develop data-driven business recommendations.
+## 📁 Project Structure
 
-🛠️ Tools & Technologies
+The project is organised into the following folders:
 
-Tool
+| Folder | Description |
+|---|---|
+| [📂 Dataset](./Dataset/) | Original BrightTV dataset |
+| [📂 Images](./Images/) | Project screenshots and visualisations |
+| [📂 Pivot_Tables](./Pivot_Tables/) | Excel pivot tables and analysis |
+| [📂 Planning](./Planning/) | Project planning and documentation |
+| [📂 Presentation](./Presentation/) | Final project presentation |
+| [📂 SQL](./SQL/) | SQL queries used during the analysis |
 
-Purpose
+---
 
-Databricks
+## 🔄 Project Workflow
 
-Data exploration and SQL analysis
-
-SQL
-
-Data querying, validation and business analysis
-
-Microsoft Excel
-
-Pivot tables, charts and data analysis
-
-Miro
-
-Project planning and workflow mapping
-
-Microsoft PowerPoint
-
-Presentation of findings and recommendations
-
-GitHub
-
-Project documentation and version control
-
-📂 Project Files
-
-Folder
-
-Description
-
-📁 Dataset
-
-BrightTV viewer profiles and viewership datasets
-
-📁 Images
-
-Analysis screenshots and visualisations
-
-📁 Pivot Tables
-
-Excel pivot tables used for analysis
-
-📁 Planning
-
-Miro project planning and workflow documentation
-
-📁 Presentation
-
-Final PowerPoint presentation
-
-📁 SQL
-
-SQL scripts used for data exploration and analysis
-
-🔄 Project Workflow
-
+```text
 BrightTV Viewership Dataset
-          │
-          ▼
+          |
+          v
     Data Exploration
-          │
-          ▼
+          |
+          v
   Data Quality Validation
-          │
-          ▼
+          |
+          v
     Databricks (SQL)
-          │
-          ▼
-    Viewership Analysis
-          │
-          ▼
-    Microsoft Excel
-          │
-          ▼
-  Business Insights &
-    Recommendations
-          │
-          ▼
-   Final Presentation
+          |
+          v
+   Viewership Analysis
+          |
+          v
+   Microsoft Excel
+          |
+          v
+ Business Insights & Recommendations
+          |
+          v
+    Final Presentation
+```
 
-📊 Key Findings
+---
 
-Gauteng recorded the highest viewing activity, followed by Western Cape and KwaZulu-Natal.
+## 📊 Key Findings
 
-Male viewers accounted for the majority of viewing sessions.
+The analysis revealed the following insights:
 
-Viewers aged 20–49 contributed significantly to overall consumption.
+- **Geographical distribution:** Gauteng recorded the highest viewing activity, followed by Western Cape and KwaZulu-Natal.
+- **Gender distribution:** Male viewers represented the majority of the audience.
+- **Age groups:** Viewers between 20 and 49 contributed significantly to overall consumption.
+- **Viewing patterns:** Friday and Saturday recorded higher viewing activity, while Monday had the lowest activity.
+- **Content preferences:** Sports, live events and entertainment channels were among the strong consumption categories.
+- **Monthly trends:** Viewership increased from January to March 2016.
 
-Friday and Saturday recorded the highest viewing activity.
+---
 
-Monday recorded the lowest viewing activity.
+## 💡 Business Recommendations
 
-Sports, live events and entertainment channels generated strong engagement.
+Based on the findings, the following recommendations were proposed:
 
-Monthly consumption increased from January to March 2016.
+1. **Audience retention:** Introduce strategies to retain viewers in provinces with high viewership.
+2. **Market expansion:** Develop targeted campaigns to attract viewers from lower-performing provinces.
+3. **Audience growth:** Introduce content and campaigns that appeal to a wider female audience.
+4. **Content targeting:** Focus on viewers aged 20–49 when developing audience engagement strategies.
+5. **Monday engagement:** Introduce special promotions and content to improve Monday viewership.
+6. **Content investment:** Continue investing in sports, live events and entertainment programming.
+7. **Viewer loyalty:** Consider referral and loyalty programmes to encourage continued platform usage.
 
-💡 Business Recommendations
+---
 
-Strengthen viewer retention in high-performing provinces.
+## 👨‍💻 Author
 
-Increase marketing efforts in lower-performing provinces.
-
-Develop targeted campaigns to attract more female viewers.
-
-Prioritise content that appeals to viewers aged 20–49.
-
-Promote popular content on Mondays to improve viewership.
-
-Invest in sports, live events and entertainment programming.
-
-Introduce referral and loyalty programmes to attract new subscribers.
-
-👨‍💻 Author
-
-Mhluri Maswanganye
+**Mhluri Maswanganye**
 
 Data Science Case Study
