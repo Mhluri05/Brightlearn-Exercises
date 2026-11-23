@@ -1,0 +1,80 @@
+Row Labels,Sum of Count of channel
+Eastern Cape,18
+Free State,17
+Gauteng,21
+Grand Total,182
+Kwazulu Natal,19
+Limpopo,17
+Mpumalanga,19
+None,17
+North West,16
+Northern Cape,18
+Western Cape,20
+Grand Total,364
+,
+,
+,
+,
+Row Labels,Sum of Count of channel
+female,19
+Grand Total,57
+male,21
+None,17
+Grand Total,114
+,
+,
+,
+,
+,
+,
+Row Labels,Sum of Sum of Count of channel
+0-9,31
+100-109,2
+110-119,8
+20-29,161
+30-39,174
+40-49,156
+50-59,121
+60-69,48
+70-79,7
+90-99,1
+Grand Total,2421
+10/19/2026,98
+Grand Total,3228
+,
+,
+,
+,
+Row Labels,Sum of Sum of Sum of unique_viewers
+Eastern Cape,271
+Free State,147
+Gauteng,1607
+Grand Total,13158
+Kwazulu Natal,448
+Limpopo,342
+Mpumalanga,391
+None,176
+North West,152
+Northern Cape,82
+Western Cape,770
+Grand Total,17544
+,
+,
+,
+,
+,
+,
+Row Labels,Sum of Count of unique_viewers
+0-9,2
+100-109,1
+110-119,4
+20-29,10
+30-39,10
+40-49,10
+50-59,10
+60-69,10
+70-79,3
+90-99,1
+Grand Total,71
+10/19/2026,10
+Grand Total,142
